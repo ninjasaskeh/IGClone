@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330567589786",
+    "project_id": "igclone-26f01",
+    "storage_bucket": "igclone-26f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330567589786:android:5245c07d20b0db1a6b2423",
+        "android_client_info": {
+          "package_name": "com.example.IGClone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330567589786-25kd6jcs6r5ota3amo0l33hqtteqs8p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpWteq9VqIknPiIuAUKekdPJR9OCLTIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330567589786-25kd6jcs6r5ota3amo0l33hqtteqs8p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
